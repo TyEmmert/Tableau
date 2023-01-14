@@ -19,3 +19,9 @@ Sheet2: CO2 per capita for each country with dot size for scale.
 CO2 per capita with integrated filter to change based on year.
 
 [Link here](https://public.tableau.com/app/profile/ty.emmert/viz/LinkingDatainTableauDEMO_16720807380570/Sheet1)
+
+### Pokemon Stats ###
+
+Averages of pokemon stats given pokemon types. Data finds that special attack and special defense have a moderate correlation. There is a wide spread between defense and speed because of steel and rock type pokemon, but the data shows that there is only a weak correlation between defense and speed.
+
+[Link here](https://public.tableau.com/app/profile/ty.emmert/viz/Pokemonstats_16736664101030/Dashboard1#1)
